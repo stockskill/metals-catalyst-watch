@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metals Catalyst Watch"
+  short_description: "Precious and industrial metals watch"
+  default_prompt: "Use $metals-catalyst-watch to assess gold, silver, copper, and palladium with a Catalyst Card and Deep Scan."
